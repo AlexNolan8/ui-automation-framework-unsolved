@@ -46,7 +46,7 @@ Branching strategy is the same as we did in our first intro exercises - feature 
 
 ## Technologies used
 
-1. Selenium for browser connection and interactions 12
+1. Selenium for browser connection and interactions
 
 2. Architecture:
 
